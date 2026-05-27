@@ -97,36 +97,33 @@ Students should be able to talk about:
 * Would you like to live in a big city?
 * Would you like to live in the countryside?
 
----
+
 
 ## Unit 3 — Sentence structures
 
 ### Talking about famous things
 
-```text
+
 What’s your hometown famous for?
 It’s famous for Himeji Castle.
 It’s well-known for hot springs.
-```
-
-```text
 What’s your area famous for?
 It’s famous for beautiful nature.
 It’s well-known for the Gion festival.
-```
+
 
 ### Asking for English vocabulary
 
-```text
+
 How do you say “___” in English?
 What’s “___” in English?
 Oh, I think it’s “___.”
 Yes, that’s right.
-```
+
 
 ### Recommending things
 
-```text
+
 Are there any fun things to do?
 Are there any special foods to try?
 
@@ -134,99 +131,88 @@ If you have the time, you should definitely visit Kinkakuji Temple.
 If you like nature, you should go hiking in the mountains.
 If you are into museums, you should check out the Miraikan in Odaiba.
 If you love sweets, you should try yatsuhashi.
-```
+
 
 ### Talking about good points
 
-```text
+
 Do you like living there?
 Yes, it’s really pleasant.
 There is a lot of nature.
 There are nice cafés.
-```
 
-```text
+
+
 It’s quiet.
 There is a beautiful river.
 The people are very friendly.
-```
 
 ### Talking about bad points
 
-```text
+
 No, it’s too crowded.
 There is too much stress.
 There are too many people.
-```
 
-```text
+
 It’s too small.
 There is nothing to do at night.
 There are too many cars.
-```
+
 
 ### Talking about people and weather
 
-```text
 What are the people like?
 They are friendly.
 They are open-minded.
 They are conservative.
-```
 
-```text
 What is the weather like?
 It’s hot in the summer.
 It’s cold in winter.
 It’s rainy in spring.
-```
 
-### Smooth topic changes
 
-```text
 How about the people?
 How about the weather?
 How about the food?
 How about your hometown?
-```
+
 
 ### Talking about future living preferences
 
-```text
 Where would you like to live in the future?
 I’d like to live here.
 I’d like to live in a big city like Tokyo.
 I’d like to live in the countryside.
 I’d like to live near the beach.
-```
+
 
 ### Giving reasons
 
-```text
+
 I’d like to live in Tokyo because I like cities.
 I’d like to live here because it’s near my family.
 I’d like to live in a big city because I want to find a good job there.
 I’d like to live in the countryside because it is peaceful and quiet.
-```
+
 
 ### Agreeing and disagreeing politely
 
-```text
+
 Yes, that must be nice.
 Yes, that must be exciting.
-```
 
-```text
+
 Yes, Tokyo is a nice place, but isn’t it a bit stressful?
 Yes, the countryside is nice, but isn’t it a bit boring?
 Yes, that could be okay, but isn’t it too crowded and noisy?
-```
 
-```text
+
 Personally, I prefer big cities.
 Personally, I prefer small cities.
 Personally, I prefer the countryside.
-```
+
 
 ---
 
@@ -294,23 +280,19 @@ Personally, I prefer the countryside.
 
 ### There is / There are vocabulary
 
-```text
 There is a lot of nature.
 There is a beautiful river.
 There is a nice castle.
 There is too much stress.
 There is too much noise.
 There is too much crime.
-```
 
-```text
 There are nice cafés.
 There are lots of temples.
 There are nice shops.
 There are good restaurants.
 There are too many people.
 There are too many cars.
-```
 
 ### Weather vocabulary
 
@@ -426,22 +408,21 @@ Students should be able to talk about:
 
 ### Talking about travel experience
 
-```text
+
 Have you ever been abroad?
 Yes, I have been to Korea.
 No, I’ve never been abroad.
-```
 
-```text
+
 Where have you been in Japan?
 I went to Kyoto last year.
 I have been to Korea.
 I went to Hawaii last year.
-```
+
 
 ### Adding travel details
 
-```text
+
 I went by myself.
 I went with my family.
 I went with my school.
@@ -456,26 +437,25 @@ It was tiring.
 It was fun.
 It was awesome.
 It was cold but very beautiful.
-```
 
-```text
+
+
 I did some sightseeing.
 I studied English.
 I did a homestay.
 I visited Himeji Castle.
 I went to Kyoto for sightseeing.
-```
 
-```text
+
+
 I stayed overnight.
 I stayed for a few days.
 I stayed for two weeks.
 It was just a day trip.
-```
 
 ### Reporting what a partner said
 
-```text
+
 Who did you just talk to?
 I spoke with ___.
 
@@ -485,98 +465,84 @@ He/She went with ___ and did ___.
 He/She also ___.
 He/She stayed in ___ for ___.
 He/She said the trip was ___.
-```
 
 ### Talking about future travel wishes
 
-```text
+
 Where would you like to go next?
 I’d like to go to Italy someday.
 I’d love to go to France.
 I want to go to New Zealand after I graduate.
 I’m thinking about going to Greece.
 I’m considering a trip to Guam.
-```
+
 
 ### Talking about future plans
 
-```text
 I’m going to go to Nagano this summer.
 I’m going to Gifu with my club.
 I’m planning on visiting my family in Sendai next month.
 I’m planning to go to Tokyo Disneyland with a few friends.
 I will stay overnight.
 We’re going to practice tennis.
-```
+
 
 ### Asking about future plans
 
-```text
 What else would you like to do there?
 How long would you like to stay there?
 When would you like to go there?
-```
 
-```text
 I’d like to just go for fun and do some sightseeing.
 I’d like to stay for about a week.
 I’m going to go next winter.
-```
 
 ### Transportation advice
 
-```text
 What’s the best way to get there?
 You should go by plane.
 You could take the train.
 You could take the bus.
-```
+
 
 ### Comparing transportation
 
-```text
 It’s faster than driving.
 It’s more expensive than taking a bus.
 It’s slower but cheaper than the train.
 It’s cheaper and more interesting than flying.
 It’s faster and more convenient than going by train.
-```
+
 
 ### Talking about time and cost
 
-```text
 How long does it take?
 It takes around three hours by shinkansen.
 It takes about eight hours by bus.
 It takes three and a half hours.
-```
 
-```text
 How much does it cost?
 It costs around twenty thousand yen.
 It costs less than ten thousand yen.
 It costs only 8,000 yen round trip.
-```
 
 ### When students do not know
 
-```text
+
 I don’t know.
 I’m not sure.
 I have no idea.
 Beats me!
-```
 
 Better extended versions:
 
-```text
+
 I don’t know. It must be long.
 Beats me! Around 10,000 yen, maybe?
 I’m not sure. Maybe around 5,000 yen.
 I have no idea, but it’s not too expensive, I think.
 Why not check the Internet?
 You should check the Internet.
-```
 
 ---
 
@@ -725,7 +691,7 @@ Students should not go silent when they do not know a word or an answer.
 
 Praise students when they use:
 
-```text
+
 How do you say “___” in English?
 What’s “___” in English?
 I don’t know.
@@ -735,17 +701,17 @@ Beats me!
 Good question.
 Maybe around ___.
 Why not check the Internet?
-```
+
 
 Example chatbot praise:
 
-```text
-Nice! You used a good strategy instead of going silent. You asked for the word in English.
-```
 
-```text
+Nice! You used a good strategy instead of going silent. You asked for the word in English.
+
+
+
 Good job! You said you weren’t sure and then made a guess. That keeps the conversation going.
-```
+
 
 ## Golden Rule 2: Give longer answers
 
@@ -755,15 +721,15 @@ Praise students when they answer more than the minimum.
 
 Weak answer:
 
-```text
+
 I went to Kyoto.
-```
+
 
 Better answer:
 
-```text
+
 I went to Kyoto last year with my classmates. We did some sightseeing, and it was really fun.
-```
+
 
 Useful detail categories:
 
@@ -777,9 +743,8 @@ Useful detail categories:
 
 Example chatbot praise:
 
-```text
 Great answer! You gave extra details about when you went, who you went with, and what you did. That is Golden Rule 2: give longer answers.
-```
+
 
 ## Golden Rule 3: Talk about yourself
 
@@ -787,28 +752,27 @@ Students should add their own related ideas without waiting for another question
 
 Praise students when they add personal comments like:
 
-```text
+
 Me too, I’d love to travel abroad after I graduate.
 Personally, I prefer the countryside.
 I’d like to go to Australia.
 I’m planning to visit my family next month.
 I want to go skiing in Vancouver.
-```
+
 
 Example four-turn pattern:
 
-```text
+
 A: I really want to go to Europe someday.
 B: Oh yeah? Me too. I would love to travel abroad after I graduate.
 A: I would love to visit France or Spain.
 B: Sounds nice. I’d like to go to Australia.
-```
+
 
 Example chatbot praise:
 
-```text
+
 Excellent! You added your own personal comment without waiting for a question. That is Golden Rule 3: talk about yourself.
-```
 
 ---
 
@@ -818,7 +782,6 @@ Excellent! You added your own personal comment without waiting for a question. T
 
 Useful reactions:
 
-```text
 Oh yeah?
 Really?
 That sounds fun.
@@ -831,34 +794,33 @@ Great!
 Wow!
 I see.
 I see what you mean.
-```
+
 
 ## Strategy 6: Getting needed vocabulary
 
-```text
+
 How do you say “___” in English?
 What’s “___” in English?
-```
+
 
 ## Strategy 10: Transitions
 
-```text
+
 How about the people?
 How about the weather?
 How about in Japan?
 How about the bus?
 Speaking of trips, where would you like to go next?
-```
+
 
 ## Strategy 11: Disagreeing politely
 
-```text
+
 Yes, that must be nice.
 Yes, that could be okay, but isn’t it a bit crowded?
 Personally, I prefer small cities.
 I see what you mean, but I like quiet places.
 Yeah, I suppose, but I don’t mind.
-```
 
 ---
 
